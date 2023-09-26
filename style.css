@@ -6,7 +6,7 @@ html {
 
 h1 {
     font-family: 'libre baskerville';
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 img {
